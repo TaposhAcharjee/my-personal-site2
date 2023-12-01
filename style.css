@@ -88,6 +88,7 @@ p{
     right: 60px;
     top: 25px;
     transition: transform 2s;
+    border-radius: 50px; 
    
 }
 .profile .top-weather-icon:hover{
@@ -109,6 +110,7 @@ p{
     left: 60px;
     bottom: 25px;
     transition: transform 2s;
+    border-radius: 50px; 
 }
 .profile .bottom-weather-icon:hover{
     transform: rotate(360deg);
